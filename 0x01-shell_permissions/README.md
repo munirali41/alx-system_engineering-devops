@@ -1,1 +1,1 @@
-my first read me
+ dealing with permisiions
